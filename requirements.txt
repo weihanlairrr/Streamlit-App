@@ -1,0 +1,13 @@
+pandas==2.0.2
+numpy==1.25.2
+scikit-learn==1.3.0
+streamlit==1.25.0
+plotly==5.15.0
+tqdm==4.65.0
+apyori==1.1.2
+lxml==4.9.2
+jieba==0.42.1
+
+plxlsb
+xlswriter
+beautifulsoup4
